@@ -1,5 +1,20 @@
 # XBehave Issue
 
+Given the folling packages
+
+```
+<PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.0.0" />
+<PackageReference Include="Xbehave" Version="2.2.0-beta0003-build685" />
+<PackageReference Include="xunit" Version="2.3.0-beta3-build3705" />
+<PackageReference Include="xunit.runner.visualstudio" Version="2.3.0-beta3-build3705" />
+```
+
+and resharper
+
+```
+JetBrains ReSharper Ultimate 2017.1.2  Build 108.0.20170428.75743
+```
+
 When running the follow test via resharper
 
 ```csharp
