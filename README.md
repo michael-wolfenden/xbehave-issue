@@ -12,7 +12,7 @@ Given the folling packages
 and resharper
 
 ```
-JetBrains ReSharper Ultimate 2017.1.2  Build 108.0.20170428.75743
+JetBrains ReSharper Ultimate 2017.1.3  Build 108.0.20170613.154143
 ```
 
 When running the follow test via resharper
